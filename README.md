@@ -5,6 +5,7 @@
 </div>
 
 <!-- Typing -->
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -69,25 +70,43 @@ Tenho contato com desenvolvimento e tecnologia através de projetos utilizando *
 
 ## GitHub Stats
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamgs&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=b30000&text_color=c9c9c9&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamgs&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=6" /> </div>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamgs&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=b30000&text_color=c9c9c9&count_private=true&cache_seconds=1800" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamgs&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=6&cache_seconds=1800" />
+
+</div>
 
 ---
 
 ## Streak
 
-<div align="center"> <img src="https://streak-stats.demolab.com?user=estevamgs&theme=dark&hide_border=true&background=0D0D0D&ring=B30000&fire=B30000&currStreakLabel=FFFFFF&sideLabels=C9C9C9&dates=777777" /> </div>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=estevamgs&theme=dark&hide_border=true&background=0D0D0D&ring=B30000&fire=B30000&currStreakLabel=FFFFFF&sideLabels=C9C9C9&dates=777777" />
+
+</div>
 
 ---
 
 ## Activity
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=estevamgs&bg_color=0d0d0d&color=ffffff&line=b30000&point=ffffff&area=true&hide_border=true" width="95%" /> </div>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=estevamgs&bg_color=0d0d0d&color=ffffff&line=b30000&point=ffffff&area=true&hide_border=true&custom_title=Gustavo%20Estevam%20-%20Activity" width="95%" />
+
+</div>
 
 ---
 
 ## GitHub Trophies
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=estevamgs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" /> </div>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=estevamgs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
 
 ---
 
@@ -95,7 +114,11 @@ Tenho contato com desenvolvimento e tecnologia através de projetos utilizando *
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/estevamgs/estevamgs/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/estevamgs/estevamgs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/estevamgs/estevamgs/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/estevamgs/estevamgs/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
