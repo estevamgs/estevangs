@@ -26,7 +26,13 @@ Sou **Gustavo Estevam**, atualmente atuando como **Estagiário de Dados**.
 
 Tenho interesse em tecnologia, desenvolvimento e principalmente em soluções que utilizam dados para tornar processos mais simples, organizados e eficientes.
 
-Atualmente trabalho com tecnologias como **HTML, CSS, JavaScript, Java e Python**, explorando diferentes formas de desenvolver projetos e automatizar processos.
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python&theme=dark" />
+
+</div>
 
 ```text
 Dados → Tecnologia → Automação → Soluções
