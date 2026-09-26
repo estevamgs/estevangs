@@ -69,13 +69,7 @@ Tenho contato com desenvolvimento e tecnologia através de projetos utilizando *
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamgs&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=b30000&text_color=c9c9c9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamgs&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=5" />
-
-</div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevamgs&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=b30000&text_color=c9c9c9&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamgs&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=6" /> </div>
 
 ---
 
