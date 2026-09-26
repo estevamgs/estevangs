@@ -1,9 +1,5 @@
 <div align="center">
 
-# Gustavo Estevam
-
-### Estagiário de Dados
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:b30000&height=180&section=header&text=Gustavo%20Estevam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Dados%20%7C%20Tecnologia%20%7C%20Automação&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
