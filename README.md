@@ -75,31 +75,19 @@ Tenho contato com desenvolvimento e tecnologia através de projetos utilizando *
 
 ## Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=estevamgs&theme=dark&hide_border=true&background=0D0D0D&ring=B30000&fire=B30000&currStreakLabel=FFFFFF&sideLabels=C9C9C9&dates=777777" />
-
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=estevamgs&theme=dark&hide_border=true&background=0D0D0D&ring=B30000&fire=B30000&currStreakLabel=FFFFFF&sideLabels=C9C9C9&dates=777777" /> </div>
 
 ---
 
 ## Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=estevamgs&bg_color=0d0d0d&color=ffffff&line=b30000&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=estevamgs&bg_color=0d0d0d&color=ffffff&line=b30000&point=ffffff&area=true&hide_border=true" width="95%" /> </div>
 
 ---
 
 ## GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=estevamgs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=estevamgs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" /> </div>
 
 ---
 
